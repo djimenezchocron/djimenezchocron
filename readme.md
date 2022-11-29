@@ -10,7 +10,7 @@
 - 📫 Puedes escribirme a djimenezchocron@alumnostrazos.net
 
 <h3 align="left">Mi página en LinkedIn:</h3>
-  <a href="https://linkedin.com/in/url-de-linkedin" target="blank">
+  <a href="https://www.linkedin.com/in/daniel-jimenez-393a76258/" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="url-de-linkedin" height="30" width="40" />
   </a>
 </p>
