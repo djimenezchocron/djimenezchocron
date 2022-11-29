@@ -7,10 +7,10 @@
 
 - 👨‍💻 Mis proyectos están en [GitHub](https://github.com/djimenezchocron?tab=repositories)
 
-- 📫 Puedes escribirme a djimenezchocron@alumnostrazos.net
+- 📫 Puedes escribirme a djimenezweb@gmail.com
 
 <h3 align="left">Mi página en LinkedIn:</h3>
-  <a href="https://www.linkedin.com/in/daniel-jimenez-393a76258/" target="blank">
+  <a href="https://www.linkedin.com/in/djimenezweb" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="url-de-linkedin" height="30" width="40" />
   </a>
 </p>
