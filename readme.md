@@ -1,4 +1,4 @@
-(https://github.com/djimenezchocron/djimenezchocron/blob/main/DSC08323.jpg?raw=true)
+![Mi espacio de trabajo](https://github.com/djimenezchocron/djimenezchocron/blob/main/DSC08323.jpg?raw=true)
 
 <h1 align="center">¡Hola!</h1>
 <h3>Soy Daniel</h3>
