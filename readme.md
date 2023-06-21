@@ -2,7 +2,7 @@
 
 Cuando era adolescente aprendí HTML de manera autodidacta, hoy mi deseo es convertirme en programador Front-End.
 
-Te recomiendo que visites [Bidder](https://bidder.onrender.com/), mi página de subastas hecha con **React**. [Aquí](../bidder) puedes ver el código.
+Te recomiendo que visites [Bidder](https://bidder.onrender.com/), mi página de subastas hecha con **React**. [Aquí](https://github.com/djimenezweb/bidder) puedes ver el código.
 
 ## Lenguajes y herramientas
 
