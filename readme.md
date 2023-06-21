@@ -4,6 +4,8 @@ Cuando era adolescente aprendí HTML de manera autodidacta, hoy mi deseo es conv
 
 Te recomiendo que visites [Bidder](https://bidder.onrender.com/), mi página de subastas hecha con **React**. [Aquí](https://github.com/djimenezweb/bidder) puedes ver el código.
 
+[![Bidder](https://github.com/djimenezweb/bidder/blob/main/public/assets/samples/bidder.jpg?raw=true)](https://bidder.onrender.com/)
+
 <p></p><br>
 
 # Lenguajes y herramientas
@@ -18,6 +20,7 @@ Te recomiendo que visites [Bidder](https://bidder.onrender.com/), mi página de 
 ![react](https://img.shields.io/static/v1?label=&message=react&color=61dafb&logo=react&logoColor=black&style=for-the-badge)
 ![styledcomponents](https://img.shields.io/static/v1?label=&message=styled%20components&color=db7093&logo=styledcomponents&logoColor=white&style=for-the-badge)
 ![reactrouter](https://img.shields.io/static/v1?label=&message=react%20router&color=ca4245&logo=reactrouter&logoColor=white&style=for-the-badge)
+![prettier](https://img.shields.io/static/v1?label=&message=prettier&color=F7B93E&logo=prettier&logoColor=white&style=for-the-badge)
 
 ![reacthookform](https://img.shields.io/static/v1?label=&message=react%20hook%20form&color=ec5990&logo=reacthookform&logoColor=white&style=for-the-badge)
 ![framermotion](https://img.shields.io/static/v1?label=&message=framer%20motion&color=0055FF&logo=framer&logoColor=white&style=for-the-badge)
@@ -26,11 +29,14 @@ Te recomiendo que visites [Bidder](https://bidder.onrender.com/), mi página de 
 ![firebase](https://img.shields.io/static/v1?label=&message=firebase&color=ffca28&logo=firebase&logoColor=black&style=for-the-badge)
 ![mongodb](https://img.shields.io/static/v1?label=&message=mongodb&color=47a248&logo=mongodb&logoColor=white&style=for-the-badge)
 ![mongoose](https://img.shields.io/static/v1?label=&message=mongoose&color=880000&logo=mongoose&logoColor=white&style=for-the-badge)
+![npm](https://img.shields.io/static/v1?label=&message=npm&color=CB3837&logo=npm&logoColor=white&style=for-the-badge)
+![fontawesome](https://img.shields.io/static/v1?label=&message=font%20awesome&color=528DD7&logo=fontawesome&logoColor=white&style=for-the-badge)
 
 ![node.js](https://img.shields.io/static/v1?label=&message=node.js&color=339933&logo=node.js&logoColor=white&style=for-the-badge)
 ![express](https://img.shields.io/static/v1?label=&message=express&color=000&logo=express&logoColor=fff&style=for-the-badge)
-![github](https://img.shields.io/static/v1?label=&message=github&color=181717&logo=github&logoColor=fff&style=for-the-badge)
 ![render](https://img.shields.io/static/v1?label=&message=render&color=46e3b7&logo=render&logoColor=white&style=for-the-badge)
+![github](https://img.shields.io/static/v1?label=&message=github&color=181717&logo=github&logoColor=fff&style=for-the-badge)
+![visualstudiocode](https://img.shields.io/static/v1?label=&message=vs%20code&color=007ACC&logo=visualstudiocode&logoColor=fff&style=for-the-badge)
 
 <p></p><br>
 
