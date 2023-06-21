@@ -4,14 +4,37 @@ Cuando era adolescente aprendí HTML de manera autodidacta, hoy mi deseo es conv
 
 Te recomiendo que visites [Bidder](https://bidder.onrender.com/), mi página de subastas hecha con **React**. [Aquí](/bidder) puedes ver el código.
 
-## Lenguajes y herramientas
+<p></p><br>
 
-- Front-End: **HTML** | **CSS** | **JavaScript** | **SASS** | **Vite**
-- Frameworks: **React** | **React Router** | **Styled Components** | **Framer Motion** | **React Hook Form**
-- Bases de datos: **Firebase** | **Firestore** | **MongoDB** | **Mongoose**
-- Back-End: **Node** | **Express**
+# Lenguajes y herramientas
 
-## Contacto
+![html](https://img.shields.io/static/v1?label=&message=html&color=E34F26&logo=html5&logoColor=white&style=for-the-badge)
+![css](https://img.shields.io/static/v1?label=&message=css&color=1572B6&logo=css3&logoColor=white&style=for-the-badge)
+![javascript](https://img.shields.io/static/v1?label=&message=javascript&color=f7df1e&logo=javascript&logoColor=black&style=for-the-badge)
+![sass](https://img.shields.io/static/v1?label=&message=sass&color=cc6699&logo=sass&logoColor=white&style=for-the-badge)
+![bem](https://img.shields.io/static/v1?label=&message=bem&color=000&logo=bem&logoColor=fff&style=for-the-badge)
+![vite](https://img.shields.io/static/v1?label=&message=vite&color=646cff&logo=vite&logoColor=white&style=for-the-badge)
+
+![react](https://img.shields.io/static/v1?label=&message=react&color=61dafb&logo=react&logoColor=black&style=for-the-badge)
+![styledcomponents](https://img.shields.io/static/v1?label=&message=styled%20components&color=db7093&logo=styledcomponents&logoColor=white&style=for-the-badge)
+![reactrouter](https://img.shields.io/static/v1?label=&message=react%20router&color=ca4245&logo=reactrouter&logoColor=white&style=for-the-badge)
+
+![reacthookform](https://img.shields.io/static/v1?label=&message=react%20hook%20form&color=ec5990&logo=reacthookform&logoColor=white&style=for-the-badge)
+![framermotion](https://img.shields.io/static/v1?label=&message=framer%20motion&color=0055FF&logo=framer&logoColor=white&style=for-the-badge)
+![cssmodules](https://img.shields.io/static/v1?label=&message=css%20modules&color=000&logo=cssmodules&logoColor=fff&style=for-the-badge)
+
+![firebase](https://img.shields.io/static/v1?label=&message=firebase&color=ffca28&logo=firebase&logoColor=black&style=for-the-badge)
+![mongodb](https://img.shields.io/static/v1?label=&message=mongodb&color=47a248&logo=mongodb&logoColor=white&style=for-the-badge)
+![mongoose](https://img.shields.io/static/v1?label=&message=mongoose&color=880000&logo=mongoose&logoColor=white&style=for-the-badge)
+
+![node.js](https://img.shields.io/static/v1?label=&message=node.js&color=339933&logo=node.js&logoColor=white&style=for-the-badge)
+![express](https://img.shields.io/static/v1?label=&message=express&color=000&logo=express&logoColor=fff&style=for-the-badge)
+![github](https://img.shields.io/static/v1?label=&message=github&color=181717&logo=github&logoColor=fff&style=for-the-badge)
+![render](https://img.shields.io/static/v1?label=&message=render&color=46e3b7&logo=render&logoColor=white&style=for-the-badge)
+
+<p></p><br>
+
+# Contacto
 
 - Web personal: https://www.djimenezweb.com/
 - Email: djimenezweb@gmail.com
