@@ -30,6 +30,7 @@ Te recomiendo que visites [Bidder](https://bidder.onrender.com/), mi página de 
 [![firebase](https://img.shields.io/badge/-firebase-ffca28?logo=firebase&logoColor=black&style=for-the-badge)](https://firebase.google.com/)
 [![mongodb](https://img.shields.io/badge/-mongodb-47a248?logo=mongodb&logoColor=white&style=for-the-badge)](https://www.mongodb.com/)
 [![mongoose](https://img.shields.io/badge/-mongoose-880000?logo=mongoose&logoColor=white&style=for-the-badge)](https://mongoosejs.com/)
+[![jwt](https://img.shields.io/badge/-jwt-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge)](https://jwt.io/)
 [![fontawesome](https://img.shields.io/badge/-font%20awesome-528DD7?logo=fontawesome&logoColor=white&style=for-the-badge)](https://fontawesome.com/)
 
 [![node.js](https://img.shields.io/badge/-node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)](https://nodejs.org/en)
