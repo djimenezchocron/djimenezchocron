@@ -57,6 +57,7 @@ Photography lab finder built with Next.js, TypeScript, Tailwind, MongoDB, and Cl
 [![Darkroom Finder](./darkroom1.png)](https://darkroomfinder.vercel.app/)
 [![Darkroom Finder](./darkroom2.png)](https://darkroomfinder.vercel.app/)
 [![Darkroom Finder](./darkroom3.png)](https://darkroomfinder.vercel.app/)
+[![Darkroom Finder](./darkroom4.png)](https://darkroomfinder.vercel.app/)
 
 ### GWT Store
 
