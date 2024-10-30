@@ -45,7 +45,7 @@ An interactive CSS Flexbox playground made with React, Framer Motion and Vite.
 - 🔗 Live demo: https://flex-playground.onrender.com/
 - 📄 Code: https://github.com/djimenezweb/flex-playground
 
-[![Flex Playground](./flex1.png)](https://flex-playground.onrender.com/)
+[![Flex Playground](./images/flex1.png)](https://flex-playground.onrender.com/)
 
 ### Darkroom Finder
 
@@ -54,10 +54,8 @@ Photography lab finder built with Next.js, TypeScript, Tailwind, MongoDB, and Cl
 - 🔗 Live demo: https://darkroomfinder.vercel.app/
 - 📄 Code: https://github.com/djimenezweb/darkroomfinder
 
-[![Darkroom Finder](./darkroom1.png)](https://darkroomfinder.vercel.app/)
-[![Darkroom Finder](./darkroom2.png)](https://darkroomfinder.vercel.app/)
-[![Darkroom Finder](./darkroom3.png)](https://darkroomfinder.vercel.app/)
-[![Darkroom Finder](./darkroom4.png)](https://darkroomfinder.vercel.app/)
+[![Darkroom Finder](./images/darkroom1.png)](https://darkroomfinder.vercel.app/)
+[![Darkroom Finder](./images/darkroom-multi.png)](https://darkroomfinder.vercel.app/)
 
 ### GWT Store
 
@@ -66,7 +64,7 @@ Online store made with Next.js, TypeScript, Stripe, and Supabase.
 - 🔗 Live demo: https://next-stripe-ecommerce-test.vercel.app/
 - 📄 Code: https://github.com/djimenezweb/next-stripe-ecommerce
 
-[![GWT Store](./gwt1.png)](https://next-stripe-ecommerce-test.vercel.app/)
+[![GWT Store](./images/gwt1.png)](https://next-stripe-ecommerce-test.vercel.app/)
 
 ### Bidder
 
@@ -75,8 +73,8 @@ An online auction single page application built with React, React Router, and Fi
 - 🔗 Live demo: https://bidder.onrender.com/
 - 📄 Code: https://github.com/djimenezweb/bidder
 
-[![Bidder](./bidder1.png)](https://bidder.onrender.com/)
-[![Bidder](./bidder2.png)](https://bidder.onrender.com/)
+[![Bidder](./images/bidder1.png)](https://bidder.onrender.com/)
+[![Bidder](./images/bidder2.png)](https://bidder.onrender.com/)
 
 ## Contact me
 
