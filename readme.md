@@ -44,9 +44,16 @@ I'm an aspiring web developer based in Madrid, Spain. I'm currently looking for 
 [![github](https://img.shields.io/badge/-github-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/)
 [![visualstudiocode](https://img.shields.io/badge/-vs%20code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)](https://code.visualstudio.com/)
 
-## Latest projects
+## MERN Auth
 
-### Flex Playground
+Basic full stack authentication system built with Express, React and shadcn/ui.
+
+- 🔗 Live demo: https://mern-auth-o1gw.onrender.com/
+- 📄 Code: https://github.com/djimenezweb/mern-auth
+
+[![MERN Auth](./images/mern-auth.png)](https://mern-auth-o1gw.onrender.com/)
+
+## Flex Playground
 
 An interactive CSS Flexbox playground made with React, Framer Motion and Vite.
 
@@ -55,7 +62,7 @@ An interactive CSS Flexbox playground made with React, Framer Motion and Vite.
 
 [![Flex Playground](./images/flex1.png)](https://flex-playground.onrender.com/)
 
-### Darkroom Finder
+## Darkroom Finder
 
 Photography lab finder built with Next.js, TypeScript, Tailwind, MongoDB, and Cloudinary. With authentication, maps, paginated search and other features.
 
@@ -65,7 +72,7 @@ Photography lab finder built with Next.js, TypeScript, Tailwind, MongoDB, and Cl
 [![Darkroom Finder](./images/darkroom1.png)](https://darkroomfinder.vercel.app/)
 [![Darkroom Finder](./images/darkroom-multi.png)](https://darkroomfinder.vercel.app/)
 
-### GWT Store
+## GWT Store
 
 Online store made with Next.js, TypeScript, Stripe, and Supabase.
 
@@ -75,7 +82,7 @@ Online store made with Next.js, TypeScript, Stripe, and Supabase.
 [![GWT Store](./images/gwt1.png)](https://next-stripe-ecommerce-test.vercel.app/)
 [![GWT Store](./images/gwt2.png)](https://next-stripe-ecommerce-test.vercel.app/)
 
-### Bidder
+## Bidder
 
 An online auction single page application built with React, React Router, and Firebase.
 
