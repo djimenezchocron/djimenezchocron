@@ -1,6 +1,6 @@
 # Hi! I'm Daniel
 
-I'm an aspiring web developer based in Madrid, Spain. I'm currently looking for a job as a React developer. Find me at [LinkedIn](https://www.linkedin.com/in/djimenezweb)!
+I'm an aspiring web developer based in Madrid, Spain. I'm currently looking for a job as a **React developer**. Find me at [LinkedIn](https://www.linkedin.com/in/djimenezweb)!
 
 ## Tech stack
 
@@ -47,7 +47,7 @@ I'm an aspiring web developer based in Madrid, Spain. I'm currently looking for 
 
 ## MERN Auth
 
-Basic full stack authentication system built with Express, React and shadcn/ui.
+Basic full stack authentication system built with **Express**, **MongoDB**, **React** and **shadcn/ui**.
 
 - 🔗 Live demo: https://mern-auth-o1gw.onrender.com/
 - 📄 Code: https://github.com/djimenezweb/mern-auth
@@ -56,7 +56,7 @@ Basic full stack authentication system built with Express, React and shadcn/ui.
 
 ## Flex Playground
 
-An interactive CSS Flexbox playground made with React, Framer Motion and Vite.
+An interactive CSS Flexbox playground made with **React**, **Framer Motion** and **Vite**.
 
 - 🔗 Live demo: https://flex-playground.onrender.com/
 - 📄 Code: https://github.com/djimenezweb/flex-playground
@@ -65,7 +65,7 @@ An interactive CSS Flexbox playground made with React, Framer Motion and Vite.
 
 ## Darkroom Finder
 
-Photography lab finder built with Next.js, TypeScript, Tailwind, MongoDB, and Cloudinary. With authentication, maps, paginated search and other features.
+Photography lab finder built with **Next.js**, **TypeScript**, **Tailwind**, **MongoDB**, and **Cloudinary**. With authentication, maps, paginated search and other features.
 
 - 🔗 Live demo: https://darkroomfinder.vercel.app/
 - 📄 Code: https://github.com/djimenezweb/darkroomfinder
@@ -75,7 +75,7 @@ Photography lab finder built with Next.js, TypeScript, Tailwind, MongoDB, and Cl
 
 ## GWT Store
 
-Online store made with Next.js, TypeScript, Stripe, and Supabase.
+Online store made with **Next.js**, **TypeScript**, **Stripe**, and **Supabase**.
 
 - 🔗 Live demo: https://next-stripe-ecommerce-test.vercel.app/
 - 📄 Code: https://github.com/djimenezweb/next-stripe-ecommerce
@@ -85,7 +85,7 @@ Online store made with Next.js, TypeScript, Stripe, and Supabase.
 
 ## Bidder
 
-An online auction single page application built with React, React Router, and Firebase.
+An online auction single page application built with **React**, **React Router**, and **Firebase**.
 
 - 🔗 Live demo: https://bidder.onrender.com/
 - 📄 Code: https://github.com/djimenezweb/bidder
