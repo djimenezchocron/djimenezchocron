@@ -15,6 +15,7 @@ I'm an aspiring web developer based in Madrid, Spain. I'm currently looking for 
 
 [![framermotion](https://img.shields.io/badge/-framer%20motion-0055FF?logo=framer&logoColor=white&style=for-the-badge)](https://www.framer.com/motion/)
 [![tailwind](https://img.shields.io/badge/-tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)](https://tailwindcss.com/)
+[![shadcnui](https://img.shields.io/badge/-shadcn%2Fui-000?logo=shadcnui&logoColor=white&style=for-the-badge)](https://ui.shadcn.com/)
 [![reactrouter](https://img.shields.io/badge/-react%20router-ca4245?logo=reactrouter&logoColor=white&style=for-the-badge)](https://reactrouter.com/en/main)
 [![mongodb](https://img.shields.io/badge/-mongodb-47a248?logo=mongodb&logoColor=white&style=for-the-badge)](https://www.mongodb.com/)
 [![mongoose](https://img.shields.io/badge/-mongoose-880000?logo=mongoose&logoColor=white&style=for-the-badge)](https://mongoosejs.com/)
