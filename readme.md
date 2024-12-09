@@ -28,6 +28,7 @@ I'm an aspiring web developer based in Madrid, Spain. I'm currently looking for 
 [![cssmodules](https://img.shields.io/badge/-css%20modules-000?logo=cssmodules&logoColor=fff&style=for-the-badge)](https://github.com/css-modules)
 [![node.js](https://img.shields.io/badge/-node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)](https://nodejs.org/en)
 [![express](https://img.shields.io/badge/-express-000?logo=express&logoColor=fff&style=for-the-badge)](https://expressjs.com/)
+[![hono](https://img.shields.io/badge/-hono-e36002?logo=hono&logoColor=fff&style=for-the-badge)](https://hono.dev/)
 [![stripe](https://img.shields.io/badge/-stripe-008CDD?logo=stripe&logoColor=fff&style=for-the-badge)](https://stripe.com/)
 [![bem](https://img.shields.io/badge/-bem-000?logo=bem&logoColor=fff&style=for-the-badge)](https://getbem.com/)
 [![vite](https://img.shields.io/badge/-vite-646cff?logo=vite&logoColor=white&style=for-the-badge)](https://vitejs.dev/)
@@ -77,11 +78,11 @@ Photography lab finder built with **Next.js**, **TypeScript**, **Tailwind**, **M
 
 Online store made with **Next.js**, **TypeScript**, **Stripe**, and **Supabase**.
 
-- 🔗 Live demo: https://next-stripe-ecommerce-test.vercel.app/
-- 📄 Code: https://github.com/djimenezweb/next-stripe-ecommerce
+- 🔗 Live demo: https://gwt-store.vercel.app/
+- 📄 Code: https://github.com/djimenezweb/gwt-store
 
-[![GWT Store](./images/gwt1.png)](https://next-stripe-ecommerce-test.vercel.app/)
-[![GWT Store](./images/gwt2.png)](https://next-stripe-ecommerce-test.vercel.app/)
+[![GWT Store](./images/gwt1.png)](https://gwt-store.vercel.app/)
+[![GWT Store](./images/gwt2.png)](https://gwt-store.vercel.app/)
 
 ## Bidder
 
